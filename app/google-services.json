@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778230345386",
+    "project_id": "endtoendencryptionchat",
+    "storage_bucket": "endtoendencryptionchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778230345386:android:b9031e082d7becaa8aaad3",
+        "android_client_info": {
+          "package_name": "com.example.endtoendencryptionchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778230345386-lo4safuqi27t088a5mvjjnp1kcag22qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.endtoendencryptionchat",
+            "certificate_hash": "061c965ab8f60941078b7493525b0d1a0f6568b3"
+          }
+        },
+        {
+          "client_id": "778230345386-2qk712l1bi77o5ouvphiddfq7gjaobit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzN8hdelQoi7TYXlYs2C6BfK7BfFExQZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778230345386-2qk712l1bi77o5ouvphiddfq7gjaobit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
